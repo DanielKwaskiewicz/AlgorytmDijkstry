@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AlgorytmDijkstry\AlgorytmDijkstry\bin\Debug\AlgorytmDijkstry.exe.config
+C:\Users\User\source\repos\AlgorytmDijkstry\AlgorytmDijkstry\bin\Debug\AlgorytmDijkstry.exe
+C:\Users\User\source\repos\AlgorytmDijkstry\AlgorytmDijkstry\bin\Debug\AlgorytmDijkstry.pdb
+C:\Users\User\source\repos\AlgorytmDijkstry\AlgorytmDijkstry\obj\Debug\AlgorytmDijkstry.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AlgorytmDijkstry\AlgorytmDijkstry\obj\Debug\AlgorytmDijkstry.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AlgorytmDijkstry\AlgorytmDijkstry\obj\Debug\AlgorytmDijkstry.exe
+C:\Users\User\source\repos\AlgorytmDijkstry\AlgorytmDijkstry\obj\Debug\AlgorytmDijkstry.pdb
